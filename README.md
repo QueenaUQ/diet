@@ -6,9 +6,9 @@ Using Generative Adversarial Networks
 
 The complexity of an object which can be attributed to its unpredictable structure and environmental lighting can make accurate depth estimation challenging. The human eye observes each part of an object with a different focus whereas computer vision defines a region of pixels to a focus that is likely to be incorrectly predicted in the context of complex objects.   In this work, we aim to exploit the effectiveness of conditional Generative Adversarial Networks (GAN) to improve depth estimation from a singular inexpensive monocular camera sensor.  We propose to use the light-field cameras to obtain good depth ground truth for outdoor complex objects. The Depth Intricate Estimation of Trees dataset (DIET) comprises of 128 photo-depth pairs of trees, which vary in structure and seasonal changes. 
 
-<img src="Summer_Example.jpg" width="900px"/>
+<img src="Summer_Example.jpg" width="600px"/>
 Example of a photo-depth pair from DIET dataset (Summer). 
-<img src="Spring_Example.jpg" width="900px"/>   
+<img src="Spring_Example.jpg" width="600px"/>   
 Another example of a photo-depth pair from DIET dataset (Spring). 
 
 Dataset Information
